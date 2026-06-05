@@ -1,3 +1,5 @@
+![Ktor Logo](https://st.timeweb.com/cloud-static/apps-logo/ktor.svg)
+
 # Ktor
 
 Пример приложения [Ktor](https://ktor.io/), которое можно развернуть в Timeweb Cloud Apps без настройки.
